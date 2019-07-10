@@ -1,2 +1,2 @@
-# hello-world by PRATIK NESARKAR!
+# hello-world by PRATIK NESARKAR & ADITI HAJARE
 Just some basics
